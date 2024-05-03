@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grid Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="text-content">
+        <h2 class="heading">My Portfolio</h2>
+            <p class="para">“And the Earth, We spread it out, and cast therein firmly set mountains and We have made to grow therein of all beautiful kinds; to give sight and as a reminder to every servant who turns to Allah.” [50:7-8]</p>
+        </div>
+        <div class="gallery">
+            <div class="box" id="box1" style="background-image: url(https://images.unsplash.com/photo-1714165861000-ee5b656c54e3?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDJ8NnNNVmpUTFNrZVF8fGVufDB8fHx8fA%3D%3D);">mountain</div>
+            <div class="box" id="box2" style="background-image: url(https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG5hdHVyZXxlbnwwfHwwfHx8MA%3D%3D);">bridge</div>
+            <div class="box" id="box3" style="background-image: url(https://plus.unsplash.com/premium_photo-1701186643238-1d0218c6515d?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDN8NnNNVmpUTFNrZVF8fGVufDB8fHx8fA%3D%3D);">lake</div>
+            <div class="box" id="box4" style="background-image: url(https://images.unsplash.com/photo-1714402002623-86d68590c545?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDl8NnNNVmpUTFNrZVF8fGVufDB8fHx8fA%3D%3D);">island</div>
+            <div class="box" id="box5" style="background-image: url(https://images.unsplash.com/photo-1714540786834-22f15ea6dc3f?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDE1fDZzTVZqVExTa2VRfHxlbnwwfHx8fHw%3D);">tree</div>
+            <div class="box" id="box6" style="background-image: url(https://images.unsplash.com/photo-1714408626810-3da2fe77d640?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfDZzTVZqVExTa2VRfHxlbnwwfHx8fHw%3D);">waterfall</div>
+            <div class="box" id="box7" style="background-image: url(https://plus.unsplash.com/premium_photo-1713823800686-9d13d1df352a?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDV8NnNNVmpUTFNrZVF8fGVufDB8fHx8fA%3D%3D);">flower</div>
+        </div>
+    </div>
+</body>
+</html>
